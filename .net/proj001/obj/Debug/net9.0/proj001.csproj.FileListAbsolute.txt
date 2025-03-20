@@ -1,0 +1,14 @@
+C:\workspace\dio\.net\proj001\bin\Debug\net9.0\proj001.exe
+C:\workspace\dio\.net\proj001\bin\Debug\net9.0\proj001.deps.json
+C:\workspace\dio\.net\proj001\bin\Debug\net9.0\proj001.runtimeconfig.json
+C:\workspace\dio\.net\proj001\bin\Debug\net9.0\proj001.dll
+C:\workspace\dio\.net\proj001\bin\Debug\net9.0\proj001.pdb
+C:\workspace\dio\.net\proj001\obj\Debug\net9.0\proj001.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio\.net\proj001\obj\Debug\net9.0\proj001.AssemblyInfoInputs.cache
+C:\workspace\dio\.net\proj001\obj\Debug\net9.0\proj001.AssemblyInfo.cs
+C:\workspace\dio\.net\proj001\obj\Debug\net9.0\proj001.csproj.CoreCompileInputs.cache
+C:\workspace\dio\.net\proj001\obj\Debug\net9.0\proj001.dll
+C:\workspace\dio\.net\proj001\obj\Debug\net9.0\refint\proj001.dll
+C:\workspace\dio\.net\proj001\obj\Debug\net9.0\proj001.pdb
+C:\workspace\dio\.net\proj001\obj\Debug\net9.0\proj001.genruntimeconfig.cache
+C:\workspace\dio\.net\proj001\obj\Debug\net9.0\ref\proj001.dll
