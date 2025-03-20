@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classificador de Nível De Herói</title>
+    <link rel="shortcut icon" href="./assets/images/pixel-game-t1wbphoik25fw7eo.jpg" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+
+<body>
+    <div class="box" id="form">
+        <form class="box__form" onsubmit=" return false;">
+
+            <legend>Consulte o nível do seu Herói</legend>
+
+            <label class="box__title" for="username">Nome do Herói:</label>
+            <input class="box__user" type="text" id="username" name="username">
+
+            <label class="box__title" for="userxp">XP do Herói (Selecione os troféus ganhos):</label>
+            <div class="box__select" style="display:flex">
+                <ul id="sortable1" class="esq connectedSortable" style="list-style-type:none; height:300px">
+                 <li style="text-align: center;"><label>SELEÇÃO</label></li>
+                 <li><label><input type="checkbox"><img src="./assets/images/500pts.png" alt="500 pontos">500 pontos</label></li>
+                 <li><label><input type="checkbox"><img src="./assets/images/1000pts.png" alt="1000 pontos">1000 pontos</label></li>
+                 <li><label><input type="checkbox"><img src="./assets/images/2000pts.png" alt="2000 pontos">2000 pontos</label></li>
+                 <li><label><input type="checkbox"><img src="./assets/images/3000pts.png" alt="3000 pontos">3000 pontos</label></li>
+                 <li><label><input type="checkbox"><img src="./assets/images/4500pts.png" alt="4500 pontos">4500 pontos</label></li>
+                 <li><label><input type="checkbox"><img src="./assets/images/6000pts.png" alt="6000 pontos">6000 pontos</label></li>
+                 <li><label><input type="checkbox"><img src="./assets/images/7000pts.png" alt="7000 pontos">7000 pontos</label></li>
+                </ul>
+                <div style="display:flex; flex-direction:column; margin-left: 10px">
+                 <button class="dir" style="height: 150px">▶</button>
+                 <button class="esq" style="height: 150px">◀</button>
+                </div>
+                <ul id="sortable2" class="dir connectedSortable" style="list-style-type:none; height:300px"></ul>
+                 <li style="text-align: center;"><label>SELECIONADOS</label></li>
+               </div>
+            <input class="box__button" type="submit" value="Consultar" onclick="consultarNivel()">
+
+        </form>
+    </div>
+    <div class="box__result" id="result"></div>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <script src="./assets/js/script.js"></script>
+</body>
+
+</html>
