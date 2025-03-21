@@ -1,0 +1,15 @@
+C:\Users\elvis13709\OneDrive\VSCode\workspace\dio\desafios-dio\.net\ConstruindoUmSistemaParaEstacionamento\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvis13709\OneDrive\VSCode\workspace\dio\desafios-dio\.net\ConstruindoUmSistemaParaEstacionamento\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Users\elvis13709\OneDrive\VSCode\workspace\dio\desafios-dio\.net\ConstruindoUmSistemaParaEstacionamento\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+C:\Users\elvis13709\OneDrive\VSCode\workspace\dio\desafios-dio\.net\ConstruindoUmSistemaParaEstacionamento\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\elvis13709\OneDrive\VSCode\workspace\dio\desafios-dio\.net\ConstruindoUmSistemaParaEstacionamento\obj\Debug\net6.0\DesafioFundamentos.sourcelink.json
+C:\Users\elvis13709\OneDrive\VSCode\workspace\dio\desafios-dio\.net\ConstruindoUmSistemaParaEstacionamento\bin\Debug\net6.0\DesafioFundamentos.exe
+C:\Users\elvis13709\OneDrive\VSCode\workspace\dio\desafios-dio\.net\ConstruindoUmSistemaParaEstacionamento\bin\Debug\net6.0\DesafioFundamentos.deps.json
+C:\Users\elvis13709\OneDrive\VSCode\workspace\dio\desafios-dio\.net\ConstruindoUmSistemaParaEstacionamento\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+C:\Users\elvis13709\OneDrive\VSCode\workspace\dio\desafios-dio\.net\ConstruindoUmSistemaParaEstacionamento\bin\Debug\net6.0\DesafioFundamentos.dll
+C:\Users\elvis13709\OneDrive\VSCode\workspace\dio\desafios-dio\.net\ConstruindoUmSistemaParaEstacionamento\bin\Debug\net6.0\DesafioFundamentos.pdb
+C:\Users\elvis13709\OneDrive\VSCode\workspace\dio\desafios-dio\.net\ConstruindoUmSistemaParaEstacionamento\obj\Debug\net6.0\DesafioFundamentos.dll
+C:\Users\elvis13709\OneDrive\VSCode\workspace\dio\desafios-dio\.net\ConstruindoUmSistemaParaEstacionamento\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+C:\Users\elvis13709\OneDrive\VSCode\workspace\dio\desafios-dio\.net\ConstruindoUmSistemaParaEstacionamento\obj\Debug\net6.0\DesafioFundamentos.pdb
+C:\Users\elvis13709\OneDrive\VSCode\workspace\dio\desafios-dio\.net\ConstruindoUmSistemaParaEstacionamento\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+C:\Users\elvis13709\OneDrive\VSCode\workspace\dio\desafios-dio\.net\ConstruindoUmSistemaParaEstacionamento\obj\Debug\net6.0\ref\DesafioFundamentos.dll
